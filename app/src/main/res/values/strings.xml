@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="spsu">Sir Padampat Singhania University</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_file">com.abc.preference_file</string>
+    <string name="pref_login_status">com.abc.preference_login_+status</string>
+    <string name="pref_user_name">com.abc.preference_user_name</string>
+    <string name="user_name">ashwani</string>
+    <string name="login_prefrence">com.ashwani.example.attendance_login_prefrence</string>
+    <string name="user_password">ashwani123</string>
+    <string name="login_status_prefrence">com.ashwani.example.attendance_login_status_prefrence</string>
+</resources>
